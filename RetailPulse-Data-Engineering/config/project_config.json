@@ -1,0 +1,12 @@
+{
+  "project_name": "RetailPulse",
+  "lakehouse_name": "lh_retailpulse",
+  "source_folder": "Files/source/olist",
+  "reject_folder": "Files/rejects",
+  "bronze_database": "bronze",
+  "silver_database": "silver",
+  "gold_database": "gold",
+  "audit_database": "ops",
+  "dataset": "Brazilian E-Commerce Public Dataset by Olist",
+  "source_url": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
+}
