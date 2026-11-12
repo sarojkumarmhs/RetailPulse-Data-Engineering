@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,order_status
+O1001,C001,2026-02-01,Delivered
+O1002,C002,2026-02-02,Delivered
+O1003,C003,2026-02-03,Shipped
+O1004,C001,2026-02-10,Delivered
+O1005,C004,2026-02-11,Cancelled
+O1006,C005,2026-02-12,Delivered
